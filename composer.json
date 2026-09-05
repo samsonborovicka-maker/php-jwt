@@ -1,0 +1,11 @@
+{
+    "name": "fuckbase/php-jwt",
+    "require": {
+        "php": ">=7.4"
+    },
+    "autoload": {
+        "psr-4": {
+            "Fuckbase\\JWT\\": "src/"
+        }
+    }
+}
